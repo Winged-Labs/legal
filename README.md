@@ -69,7 +69,7 @@ Before deploying changes:
 
 For questions about these legal documents:
 - **Email**: support@wingedapp.com
-- **Legal inquiries**: legal@wingedapp.com
+- **Legal inquiries**: support@wingedapp.com
 
 ## Related Repositories
 
