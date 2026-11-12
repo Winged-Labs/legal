@@ -6,7 +6,7 @@ Official legal documents for the Winged dating application.
 
 - **Privacy Policy**: [View Live](https://winged-labs.github.io/legal/privacy-policy/)
 - **Terms of Service**: [View Live](https://winged-labs.github.io/legal/terms-of-service/)
-- **Winged Max policies**: [Overview](https://legal.wingedapp.com/winged-max/), [Terms and Conditions](https://legal.wingedapp.com/winged-max/terms/), [Acceptable Use Policy](https://legal.wingedapp.com/winged-max/acceptable-use/), and [Law-Enforcement Request Protocol](https://legal.wingedapp.com/winged-max/law-enforcement/). These are product-specific pages for the Winged Oy macOS service; they do not replace the Winged member-matching app's policies. The Max pages describe a prelaunch US pilot, not an active live subscription.
+- **Winged Max policies**: [Dedicated public site](https://winged-labs.github.io/winged-max-legal/). These are product-specific pages for the Winged Oy macOS service and do not replace the Winged member-matching app's policies.
 
 ## Purpose
 
