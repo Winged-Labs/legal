@@ -1,0 +1,7 @@
+# secrets and personal data: never commit (history purge 2026-11-17)
+.env
+.env.*
+!.env.example
+!.env.template
+GoogleService-Info.plist
+google-services.json
